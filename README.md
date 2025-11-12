@@ -37,4 +37,6 @@ This project uses **Streamlit** to create an interactive web interface where use
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone git remote add origin https://github.com/Aaryan012/Bone_Fracture.git
+
+```
